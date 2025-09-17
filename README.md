@@ -1,12 +1,9 @@
-# Wedding Planner App
-
 A modern, creative, and professional mobile app prototype for wedding planning, developed using Flutter.
-
 This application was built as part of an internship assignment to demonstrate skills in mobile app development, UI/UX design, and state management.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **User Authentication**: A secure login and registration system with a "Remember Me" option for a seamless user experience.
 - **Dynamic Wedding Checklist**: A comprehensive checklist of wedding tasks (e.g., Venue, Catering, Photography) that users can manage. Tasks are displayed on interactive cards that expand to reveal more options.
@@ -90,5 +87,6 @@ This project was developed with the provided evaluation criteria in mind.
 - **Problem-Solving**: Complex features like dynamic event booking and local data persistence were handled effectively.
 
 ---
+
 
 
